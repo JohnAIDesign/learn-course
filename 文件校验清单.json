@@ -1,0 +1,1020 @@
+{
+  "version": "V1.0-交互学习版-20260925",
+  "files": [
+    {
+      "file": "assets/slides/L00/01.png",
+      "bytes": 19763,
+      "sha256": "2a12fd5fced1b8c415a23f61e7a1304fba0f4cd5f5cba843247815667c94c59d"
+    },
+    {
+      "file": "assets/slides/L00/02.png",
+      "bytes": 18100,
+      "sha256": "c94de404d27c37b2cf5c522b1316d97955300cae9f8eb5bc3461ccad438cabb5"
+    },
+    {
+      "file": "assets/slides/L00/03.png",
+      "bytes": 20836,
+      "sha256": "64ee56ebc39c8d2e6c1272db730cffc0fa7422f4285143ca4397491579888e7c"
+    },
+    {
+      "file": "assets/slides/L00/04.png",
+      "bytes": 19527,
+      "sha256": "f45330885d96ee0e5ef3fa58e22bff0c3139aab6aced40ec86cc14118d35ab65"
+    },
+    {
+      "file": "assets/slides/L00/05.png",
+      "bytes": 19598,
+      "sha256": "de92517f14b90b48a126be3479664b312f02ed21e5110a30d1c2fa2c8ef7e031"
+    },
+    {
+      "file": "assets/slides/L00/06.png",
+      "bytes": 18501,
+      "sha256": "51d28f7b30646baae1d817966f05e098135f6624b4bcb4889dff67c7a178be64"
+    },
+    {
+      "file": "assets/slides/L01/01.png",
+      "bytes": 20925,
+      "sha256": "07c2558ff9c32810cce29ce36b6e3ef3321fddbb5272184797c10035f281d2ca"
+    },
+    {
+      "file": "assets/slides/L01/02.png",
+      "bytes": 21869,
+      "sha256": "c3bbf30ccb0315999fc1334bb229c4a024256a048963e3aa1fd275fb7da2b2d3"
+    },
+    {
+      "file": "assets/slides/L01/03.png",
+      "bytes": 20966,
+      "sha256": "7bb066c4d2da5f0698b43cfaa4f6f379cf1e905e66a8d7ff81f9bd76de190fa7"
+    },
+    {
+      "file": "assets/slides/L01/04.png",
+      "bytes": 27852,
+      "sha256": "fa96dd0592b6217b72d821db41786e311daae9898c2e9bb133b995852a801bbf"
+    },
+    {
+      "file": "assets/slides/L01/05.png",
+      "bytes": 21454,
+      "sha256": "dc2a7bc0b08b93976f08cfa652148e51d03dfc8500a16dd473b847decae2856f"
+    },
+    {
+      "file": "assets/slides/L01/06.png",
+      "bytes": 22974,
+      "sha256": "0f31ccd0fdb833843e9b8dc187fb0efda98130c9e2ac8ecb44fea36f5c82431d"
+    },
+    {
+      "file": "assets/slides/L02/01.png",
+      "bytes": 19789,
+      "sha256": "962b1a7ebd471f8998529323280d172c78917504881c0ef492942c61e452353d"
+    },
+    {
+      "file": "assets/slides/L02/02.png",
+      "bytes": 21446,
+      "sha256": "4950a760a30bc5f615e94f7b72ef1540a52e7221d20125249cccdf76694d00f8"
+    },
+    {
+      "file": "assets/slides/L02/03.png",
+      "bytes": 27433,
+      "sha256": "b14aa7135f6dc28a6b54562d21cc6ac36de2be35a6a5d0d7550ed0f28d166759"
+    },
+    {
+      "file": "assets/slides/L02/04.png",
+      "bytes": 22109,
+      "sha256": "392ab416a5a0222b62eabc91baec58962f6015cee5ad6ab13cfe265e7a6ff34a"
+    },
+    {
+      "file": "assets/slides/L02/05.png",
+      "bytes": 22863,
+      "sha256": "9476e6166fab998a6e6c8c1c717bb055f76d46d33fe324d41a25f8d7d3d8be4e"
+    },
+    {
+      "file": "assets/slides/L02/06.png",
+      "bytes": 24252,
+      "sha256": "f754fbcfb145bc51d518cd00410672f4ed3e18557b5f0ab2f14026f9fb2f9cc4"
+    },
+    {
+      "file": "assets/slides/L03/01.png",
+      "bytes": 30756,
+      "sha256": "14583563899d2fb8a9903b720483d950b58637a8ec79f61fc72b57d369f55c7a"
+    },
+    {
+      "file": "assets/slides/L03/02.png",
+      "bytes": 16695,
+      "sha256": "f83ac79a11624f1cbe7919fcaaa061778b27444b07d1a0b7c908c9e7c43d0ed0"
+    },
+    {
+      "file": "assets/slides/L03/03.png",
+      "bytes": 17381,
+      "sha256": "988aa762771deeef86380da270fa3daac7c328b2253512813b99cf2279dac77f"
+    },
+    {
+      "file": "assets/slides/L03/04.png",
+      "bytes": 23692,
+      "sha256": "eb86032c8a1808c43663f1a167095dda2e9814ee6ba7ffa0e79678f93c1dfeb8"
+    },
+    {
+      "file": "assets/slides/L03/05.png",
+      "bytes": 15585,
+      "sha256": "7eaea01205f32bab1b79e6c59790dffff7b2c69d8fc9bcc8bc28873492f384eb"
+    },
+    {
+      "file": "assets/slides/L04/01.png",
+      "bytes": 22086,
+      "sha256": "1cf332200fd56d6e72bb53343d158cb3698105f0ead02c4ef45f0cc007e294f0"
+    },
+    {
+      "file": "assets/slides/L04/02.png",
+      "bytes": 15809,
+      "sha256": "b3037dc2ba0d953f749bc4e9f47ace7be6b6a9eaa10058b2dbb1a39d5dad59a7"
+    },
+    {
+      "file": "assets/slides/L04/03.png",
+      "bytes": 19625,
+      "sha256": "6be9ed995e1711abbed0fa8492e787ea84754fcf08f03cd152e7d3f9939ea226"
+    },
+    {
+      "file": "assets/slides/L04/04.png",
+      "bytes": 20131,
+      "sha256": "d99b3787f928e1c1e68d6bfeb9116007d81672aa55c1f3b2e7a334e6460ead5f"
+    },
+    {
+      "file": "assets/slides/L04/05.png",
+      "bytes": 15298,
+      "sha256": "79539d998c9e843bdcfdec283f617aaefb9ad76da1b1702edefd7566ab1e008a"
+    },
+    {
+      "file": "assets/slides/L04/06.png",
+      "bytes": 14354,
+      "sha256": "198a1a79acb433aec3f4da9ff7c7b2a16a9c1df58f6ec57b49d3b626dfcd0463"
+    },
+    {
+      "file": "assets/slides/L05/01.png",
+      "bytes": 21119,
+      "sha256": "a237bf6f212599eaff1b02bca43392a8ef1fd08d0391ebd4b25ad3501addcc81"
+    },
+    {
+      "file": "assets/slides/L05/02.png",
+      "bytes": 18666,
+      "sha256": "7b436874ef98c7782b29a2a8ed1b9df6148c646254f8b98ebe1f4cd6c87083e3"
+    },
+    {
+      "file": "assets/slides/L05/03.png",
+      "bytes": 129274,
+      "sha256": "7fb90426a983f8431d096ced5482a42aeb75e700ab470c470bb280eeb2f134d7"
+    },
+    {
+      "file": "assets/slides/L05/04.png",
+      "bytes": 174515,
+      "sha256": "0ff93cdda12a135d2cf38ee579acbff7b8d547b10ac17b67f896de1aa81a4b82"
+    },
+    {
+      "file": "assets/slides/L05/05.png",
+      "bytes": 224174,
+      "sha256": "7a68f800df439a7b248c2c39d69609e264f5030285c282280a024d01826ef337"
+    },
+    {
+      "file": "assets/slides/L05/06.png",
+      "bytes": 205508,
+      "sha256": "28e5ecad4e2cbdf2d7bd92453cffd28935bdbaf88d23b306c2e2f15c7f6b76a8"
+    },
+    {
+      "file": "assets/slides/L05/07.png",
+      "bytes": 215030,
+      "sha256": "44b5cfcf3e0e1d8f27e1a435d0baf22aafd835dc93e917d3b9e363c75cab8842"
+    },
+    {
+      "file": "assets/slides/L05/08.png",
+      "bytes": 23871,
+      "sha256": "d242a0a6f2841a23dc969d28cd5ad43c5853255a3edfed89e47edc8f9f244d1a"
+    },
+    {
+      "file": "assets/slides/L06/01.png",
+      "bytes": 23756,
+      "sha256": "249b27ea7a6b355baa1719a9336709b14d5a9551f7423e415da09f6066d635cb"
+    },
+    {
+      "file": "assets/slides/L06/02.png",
+      "bytes": 19140,
+      "sha256": "4e986e801aa0ec1c360b98407f8a77be0248e780e381a35a5de859d1caaf6c19"
+    },
+    {
+      "file": "assets/slides/L06/03.png",
+      "bytes": 135130,
+      "sha256": "7c3a117d8c9e43125aeb297a09d552fd692cf1eb191dac3ce6aa74d49f8ca499"
+    },
+    {
+      "file": "assets/slides/L06/04.png",
+      "bytes": 21933,
+      "sha256": "102f85f44d13560be053ce220badb26d8d2836a3ae94f937c5626603d2003291"
+    },
+    {
+      "file": "assets/slides/L06/05.png",
+      "bytes": 19403,
+      "sha256": "b41081465d6235fba62ceda67a2c77f5c05a6f5d4503f0a0ec9f57b38849b11f"
+    },
+    {
+      "file": "assets/slides/L06/06.png",
+      "bytes": 16889,
+      "sha256": "f3977657542396e03c0b739ecf5dd90d9d3024faf83fde6fb2f541127832490b"
+    },
+    {
+      "file": "assets/slides/L07/01.png",
+      "bytes": 22417,
+      "sha256": "e158ab4e2b2587bfac4cb817fca50024990f921bfab271da2da89ac6c56ac56b"
+    },
+    {
+      "file": "assets/slides/L07/02.png",
+      "bytes": 36072,
+      "sha256": "4e5b4c473e44df85727ef39f43c2298e63ac67773e9c45796882fe64b464464d"
+    },
+    {
+      "file": "assets/slides/L07/03.png",
+      "bytes": 255247,
+      "sha256": "b776de23f8da449755c7248cb450c49e63f404c102c2ada8f3e4447d276ccb07"
+    },
+    {
+      "file": "assets/slides/L07/04.png",
+      "bytes": 63281,
+      "sha256": "e55026be0fbb40814ac492bb184cf5cb0ce73163c4b583ba1004320c4fdc3412"
+    },
+    {
+      "file": "assets/slides/L07/05.png",
+      "bytes": 36563,
+      "sha256": "faea866652856a561553b981f0d047f60bcd3cdd1fdac006abc6efc13dc88880"
+    },
+    {
+      "file": "assets/slides/L07/06.png",
+      "bytes": 41803,
+      "sha256": "0d5341cc24a9a05e44fc2563f6277d092546ee8ea42cd755f718f98c7b5d47ff"
+    },
+    {
+      "file": "assets/slides/L07/07.png",
+      "bytes": 38660,
+      "sha256": "45a1aa8f67143f152b4323b01e66836b393baef49de046b3cc225833c09fd240"
+    },
+    {
+      "file": "assets/slides/L07/08.png",
+      "bytes": 43215,
+      "sha256": "97d3559b7aa2b6f47340e4bc3558cc42b1fe43e04730cd77d56a347492246caa"
+    },
+    {
+      "file": "assets/slides/L08/01.png",
+      "bytes": 26575,
+      "sha256": "57a5aa8f2d3f2267a0c5c59f116afc3a764e9124ad2b0937db872a6e04a4b325"
+    },
+    {
+      "file": "assets/slides/L08/02.png",
+      "bytes": 18605,
+      "sha256": "aee98e0fc12390eb520844aca0fe417aef8a3567fa6689be9c72c57273f5218d"
+    },
+    {
+      "file": "assets/slides/L08/03.png",
+      "bytes": 19218,
+      "sha256": "59c4129687a43d23b79fb25c6e0dab8aba2b34e892f9f4b611b05ec3357c3ad1"
+    },
+    {
+      "file": "assets/slides/L08/04.png",
+      "bytes": 18725,
+      "sha256": "64efbdf88a8b2ac097d6aef5c76b66db2957097e2f9d352acf92a35577a62091"
+    },
+    {
+      "file": "assets/slides/L08/05.png",
+      "bytes": 20213,
+      "sha256": "481313de8d0730daa1cff6b6edf898d31fc2e3db86c7347d09b19e1971a2685a"
+    },
+    {
+      "file": "assets/slides/L08/06.png",
+      "bytes": 17067,
+      "sha256": "50f5c05fe7366f7879278b3cfa02d474586be36fb224505eece3a24a2a0ae24e"
+    },
+    {
+      "file": "assets/slides/L09/01.png",
+      "bytes": 19022,
+      "sha256": "549f45cdd6c047672603b954cb1818df7e326a59635fa0d94e39768dbdfa1eb6"
+    },
+    {
+      "file": "assets/slides/L09/02.png",
+      "bytes": 15624,
+      "sha256": "79989c5f2d843b979686df8da75b352e3a93fbddd13a81fae26c5fc271d75c69"
+    },
+    {
+      "file": "assets/slides/L09/03.png",
+      "bytes": 21358,
+      "sha256": "90d1d475ecb47a8554643196cf5a72195e7b00ed4529f72716977cabdfdacbdd"
+    },
+    {
+      "file": "assets/slides/L09/04.png",
+      "bytes": 19405,
+      "sha256": "bbd640c9c47c6540b5605de85a37611d46998e6e4bf4afe468d711618c46533f"
+    },
+    {
+      "file": "assets/slides/L09/05.png",
+      "bytes": 21658,
+      "sha256": "6043633eef8f7ac2313f643d1945401b166d5f6c2851d642b66f2cd1080f6c88"
+    },
+    {
+      "file": "assets/slides/L09/06.png",
+      "bytes": 16389,
+      "sha256": "055947a6d70a42362635b4b38a629d9f01e74816638ea957c92730b7a1684e14"
+    },
+    {
+      "file": "assets/slides/L10/01.png",
+      "bytes": 25433,
+      "sha256": "3472501c7eb2f0edf546d66ffa8c2fe1ee28f8630d2d1f3e2eb408b8a3ff0c56"
+    },
+    {
+      "file": "assets/slides/L10/02.png",
+      "bytes": 33167,
+      "sha256": "7e9d22e50ea29d94096245c723f0b306cc48a39298e82e19b2f26ac2bc1e84f2"
+    },
+    {
+      "file": "assets/slides/L10/03.png",
+      "bytes": 30461,
+      "sha256": "f82062b06786df89d05688d780ad60bdf35201d4eae4e7ccbd275dde63df9ad6"
+    },
+    {
+      "file": "assets/slides/L10/04.png",
+      "bytes": 55077,
+      "sha256": "8a20bf66a48c94d2676a047ddc2a6acc6251a6a334eb62328a4a182e1194ed99"
+    },
+    {
+      "file": "assets/slides/L10/05.png",
+      "bytes": 18863,
+      "sha256": "dfd994bf29e22ab73add441dd2daf424547d5b2e0503d4be8981ef249e64fa79"
+    },
+    {
+      "file": "assets/slides/L10/06.png",
+      "bytes": 14807,
+      "sha256": "1c10c393e45fe10b42c771438f07394f64d6236aae3405b3fedf4b99bb8e71fc"
+    },
+    {
+      "file": "assets/slides/L10/07.png",
+      "bytes": 18399,
+      "sha256": "303c1b18116892430b77243b10ca584ffcb148fc845e1ee7dd4bfef0fc64fa41"
+    },
+    {
+      "file": "assets/slides/L11/01.png",
+      "bytes": 22932,
+      "sha256": "a9756d7bd7ec4804f553177350505f3b3d370b085472c1839859dab08c95690f"
+    },
+    {
+      "file": "assets/slides/L11/02.png",
+      "bytes": 19330,
+      "sha256": "487f5edac28f479714e56ebc901594f333a44f13fdfd108a0fa649df32a944cf"
+    },
+    {
+      "file": "assets/slides/L11/03.png",
+      "bytes": 18691,
+      "sha256": "8d66596c6718882c355c2c8bfa765af4496126101cbd6849b5b3ced99c872cd0"
+    },
+    {
+      "file": "assets/slides/L11/04.png",
+      "bytes": 25766,
+      "sha256": "56dd8b28c6bbf5169d785dad8e63b68b4a443f993ccb66c7cbd46edceaa8034a"
+    },
+    {
+      "file": "assets/slides/L11/05.png",
+      "bytes": 22675,
+      "sha256": "45415b531907755c1ef40eedbd9253ffe3cd89755d0f2b497ad672cc34e2991c"
+    },
+    {
+      "file": "assets/slides/L11/06.png",
+      "bytes": 26758,
+      "sha256": "0bd0f808da5588818f32ac629429d26db9ab6b06e7928a920fd31c057898a481"
+    },
+    {
+      "file": "assets/slides/L12/01.png",
+      "bytes": 22532,
+      "sha256": "0ac60c43e53791fe0c21c3252511222a97103eac304766c47d14a47515ed5ddf"
+    },
+    {
+      "file": "assets/slides/L12/02.png",
+      "bytes": 23365,
+      "sha256": "4a18571cbde52c458a8343bf73aa1ea526fa53652f8e3ab9a2c26c4ef2b258a3"
+    },
+    {
+      "file": "assets/slides/L12/03.png",
+      "bytes": 17978,
+      "sha256": "5c99720a344b26df3d26cea7ada9ad528042e1f5f3a18c888a2db6e0b9091834"
+    },
+    {
+      "file": "assets/slides/L12/04.png",
+      "bytes": 21626,
+      "sha256": "74e79c024cc7930ac6295269fa91f0884640b368341289fbe9b7caa7151bfde5"
+    },
+    {
+      "file": "assets/slides/L12/05.png",
+      "bytes": 23627,
+      "sha256": "96fc6df514d1841163f1c7a2c926644c15b0a9cdb6fdb531a44efb9d6bd27239"
+    },
+    {
+      "file": "assets/slides/L12/06.png",
+      "bytes": 25572,
+      "sha256": "779536a24f2bb21117de8d69dc88942e07c68e50b1ec940a6dc1e219f7afa569"
+    },
+    {
+      "file": "assets/slides/L13/01.png",
+      "bytes": 20765,
+      "sha256": "8c176dc5d8d43fbd48bdb6c3422ceaec559338634eac04e4c6434a41467b5ffb"
+    },
+    {
+      "file": "assets/slides/L13/02.png",
+      "bytes": 22314,
+      "sha256": "ab717b8d2cfc35b8bc9ec847288f870e7a420a96d8a45f5341642d72f73b992a"
+    },
+    {
+      "file": "assets/slides/L13/03.png",
+      "bytes": 26838,
+      "sha256": "5116c0a9ba55761c640b9d8b0aba56fa3d24f02e25733ad055ef5387255e6ad6"
+    },
+    {
+      "file": "assets/slides/L13/04.png",
+      "bytes": 24773,
+      "sha256": "8922a18c27620b668604c28aae26fdae9ae949a4da739b6c2438a889f7d1377a"
+    },
+    {
+      "file": "assets/slides/L13/05.png",
+      "bytes": 18664,
+      "sha256": "a8df42ba1466148ccad989d79ab24433e64e2706ae6f0f9820537bae08c75206"
+    },
+    {
+      "file": "assets/slides/L13/06.png",
+      "bytes": 20898,
+      "sha256": "5dd974fad3b424e3e913a54f233b335d65c85c62f75e50c71403934e960d46a7"
+    },
+    {
+      "file": "assets/slides/L14/01.png",
+      "bytes": 16504,
+      "sha256": "4e355f605a78bd3f56cd09c9405d199b8215b0619801aa429a9fa073f1b124b7"
+    },
+    {
+      "file": "assets/slides/L14/02.png",
+      "bytes": 21772,
+      "sha256": "22e391313201c5efb4271e27bdb09c20fdcd4a1845efdc664a4705bc53fbe4bf"
+    },
+    {
+      "file": "assets/slides/L14/03.png",
+      "bytes": 21208,
+      "sha256": "1958475215bc401d6da0035f76a0f7610bf573a5e3794b27f2842d8b51197b96"
+    },
+    {
+      "file": "assets/slides/L14/04.png",
+      "bytes": 24670,
+      "sha256": "80a38932dbcbcbaa3dc5462bce55df8aa4130e6bd0c9916e1125ea960172495a"
+    },
+    {
+      "file": "assets/slides/L14/05.png",
+      "bytes": 22911,
+      "sha256": "c217411f326b1874496a6b74b8c2a69a3c3a81c11210e8b0d2c4e156adfc340f"
+    },
+    {
+      "file": "assets/slides/L14/06.png",
+      "bytes": 20279,
+      "sha256": "dc45393ce27eaabe4eb5230f6408405b8f5ab1da7af413b94fa3adf199df14c5"
+    },
+    {
+      "file": "assets/slides/L15/01.png",
+      "bytes": 18271,
+      "sha256": "529ad111839c74002636df6e279b505c4c7c63449e87faf4194e544b32e0cf7e"
+    },
+    {
+      "file": "assets/slides/L15/02.png",
+      "bytes": 23246,
+      "sha256": "102a656443acc117db7e2f6c894c0e7d73114449d9d938085d013a8ce0b5b6c5"
+    },
+    {
+      "file": "assets/slides/L15/03.png",
+      "bytes": 19516,
+      "sha256": "87bb35894259e65f2d82060397916071467352d2ca90d318741cf1091684face"
+    },
+    {
+      "file": "assets/slides/L15/04.png",
+      "bytes": 24558,
+      "sha256": "78fb0fd8cbe582a6e22925400f4064bd14877a2759ae10bb094f69fb87a32103"
+    },
+    {
+      "file": "assets/slides/L15/05.png",
+      "bytes": 26492,
+      "sha256": "ab9c3f652728a17c9d42b0103c3d05f65d4d4ea324571ed10fd8e1a05010e549"
+    },
+    {
+      "file": "assets/slides/L15/06.png",
+      "bytes": 24017,
+      "sha256": "03f3df43c2b002118cc39db821d57a64823c4fc05a1619675431e0b8760eb2e1"
+    },
+    {
+      "file": "assets/slides/L16/01.png",
+      "bytes": 18093,
+      "sha256": "521b655c0f0a1398c4e3b5e7bebcd86ff3da933fdc5c12b9ffc6bad56fea005e"
+    },
+    {
+      "file": "assets/slides/L16/02.png",
+      "bytes": 25948,
+      "sha256": "3fbc8b6520872639e045ae39fbf2396035c661a40d3abfccbe171b105cd9e19d"
+    },
+    {
+      "file": "assets/slides/L16/03.png",
+      "bytes": 24311,
+      "sha256": "d7bdec243be22a603b5066844bc2b41d1aebf658377f03ba86929318b6566561"
+    },
+    {
+      "file": "assets/slides/L16/04.png",
+      "bytes": 25458,
+      "sha256": "87b3db4b6a0cb5f4a572246f4ae6a82bb6c20bc46f49150802619defd31ac712"
+    },
+    {
+      "file": "assets/slides/L16/05.png",
+      "bytes": 24374,
+      "sha256": "1b29119bbce5a1c5a62486b1479e8e8d3a36e890fb2c75d190b4b76cdcc4997c"
+    },
+    {
+      "file": "assets/slides/L16/06.png",
+      "bytes": 26090,
+      "sha256": "54136729cd6278ed8f59626632e33dc0e7bf89cb5934a4ec611a8dd3672eed6a"
+    },
+    {
+      "file": "assets/slides/L17/01.png",
+      "bytes": 20358,
+      "sha256": "baab2d0dd7be21c502a31ede6618932540c858e525e9673bef4706a913495969"
+    },
+    {
+      "file": "assets/slides/L17/02.png",
+      "bytes": 22933,
+      "sha256": "edf3966f5f5b206fa261fc805845da76496b68f5b7831134b71d8d243305b3d4"
+    },
+    {
+      "file": "assets/slides/L17/03.png",
+      "bytes": 25610,
+      "sha256": "8ac38216b365b17ca8b0cff12965d65959d9d1ebe203de1e174007e2b0311cd9"
+    },
+    {
+      "file": "assets/slides/L17/04.png",
+      "bytes": 22828,
+      "sha256": "4e671907606b76cb2ad0c634a5c158696e2994283d304d5c56fbbf680c4e45a3"
+    },
+    {
+      "file": "assets/slides/L17/05.png",
+      "bytes": 23194,
+      "sha256": "4ea31307787f7199b68b56a1724959eedc0b472cda35d02e0b0392c91c881ca7"
+    },
+    {
+      "file": "assets/slides/L17/06.png",
+      "bytes": 23840,
+      "sha256": "8d69ab6cb5128abad78997f5cdd327cb3995eb4d06a782651f92437c96df1e03"
+    },
+    {
+      "file": "assets/slides/L18/01.png",
+      "bytes": 19948,
+      "sha256": "83306e243325606c0e2bbae95f3cfb3e8a4953b962aea23289e720e0367977fd"
+    },
+    {
+      "file": "assets/slides/L18/02.png",
+      "bytes": 23035,
+      "sha256": "c478cedf489e70d833358ec48ca3ca4863b5fc8e6509d7ee2476572777bc3f9e"
+    },
+    {
+      "file": "assets/slides/L18/03.png",
+      "bytes": 19420,
+      "sha256": "77a5d9f789d59a5dbae5c7881b6f0e20ead2a277a8596ae74675614f4afbe084"
+    },
+    {
+      "file": "assets/slides/L18/04.png",
+      "bytes": 25478,
+      "sha256": "a509d73cc8712998404883b104798e965db66770139dc05b8ab6593fe029b6cd"
+    },
+    {
+      "file": "assets/slides/L18/05.png",
+      "bytes": 20259,
+      "sha256": "1f9c28cac885927ac07bb9dd97f0677ea3dfdae3ad0e494b374b2b96cb373a1a"
+    },
+    {
+      "file": "assets/slides/L18/06.png",
+      "bytes": 24537,
+      "sha256": "94305abc4a4d3e2edeb4f2e09954add6bcdf9a7f75a209456b410398c8e58045"
+    },
+    {
+      "file": "assets/slides/L19/01.png",
+      "bytes": 22927,
+      "sha256": "340e6e4283aeaf0617754e9799e72c7f41656d0f2492039b847dc9f2f5c18501"
+    },
+    {
+      "file": "assets/slides/L19/02.png",
+      "bytes": 20342,
+      "sha256": "67cb68559756301a08ff034b09fc696a5b9d6ce3b05941f5e274942f5c1c19f2"
+    },
+    {
+      "file": "assets/slides/L19/03.png",
+      "bytes": 22955,
+      "sha256": "9046f76738da5347db681ef7c8543d1dc46739d9fd5810436507339502add042"
+    },
+    {
+      "file": "assets/slides/L19/04.png",
+      "bytes": 24331,
+      "sha256": "edbf44f64d680525dc7e3419f1f3d3b36830df1f64795a4f36df03ba46944680"
+    },
+    {
+      "file": "assets/slides/L19/05.png",
+      "bytes": 20792,
+      "sha256": "2be74e6a12b54ee81add877d8ccc2c490d9f376d5eea89c0e9843b3177116178"
+    },
+    {
+      "file": "assets/slides/L19/06.png",
+      "bytes": 21477,
+      "sha256": "8038b481c0806d723810c7f6b5f1f8e5c1629f2d3b096134ecedd9ec7263e047"
+    },
+    {
+      "file": "assets/slides/L20/01.png",
+      "bytes": 21540,
+      "sha256": "85d3a0d6c7dd136b487ef9f55a5fd634d6abdb05b8963a12042e9f4571281437"
+    },
+    {
+      "file": "assets/slides/L20/02.png",
+      "bytes": 21287,
+      "sha256": "e0698b3f3441ecd2c4ec76fdf1d38eb0591adc8000bf842784c798b960175ec8"
+    },
+    {
+      "file": "assets/slides/L20/03.png",
+      "bytes": 23669,
+      "sha256": "32b91e950a4b42f8f85b11fa784a30cf0db7677d779abb60fdbedeec822bdce7"
+    },
+    {
+      "file": "assets/slides/L20/04.png",
+      "bytes": 21977,
+      "sha256": "9dc9bb0ca6bdb09aca3f0ba06cf22f0cd32941950954c30b4990af2fe45bfb25"
+    },
+    {
+      "file": "assets/slides/L20/05.png",
+      "bytes": 21627,
+      "sha256": "0bb19487948ce6053edfb3cb5e325363f1cb4dce1d5e0c71f5030ef01391de91"
+    },
+    {
+      "file": "assets/slides/L20/06.png",
+      "bytes": 24738,
+      "sha256": "ae4a25a275b49a3debf2b1fc2572f660bcb0093e23baf33ac39ad15388676f86"
+    },
+    {
+      "file": "assets/slides/L21/01.png",
+      "bytes": 21318,
+      "sha256": "d164ffab5a1a05f60471ce6d87a8aaad3c5e1af1769b8f70a597cc84b258d8dc"
+    },
+    {
+      "file": "assets/slides/L21/02.png",
+      "bytes": 20637,
+      "sha256": "eb13d8550cfeddbce00fa465a100eaa8dd32880baebf8a280525517f39916099"
+    },
+    {
+      "file": "assets/slides/L21/03.png",
+      "bytes": 25020,
+      "sha256": "c15fa08e4f14629cdcc961e6d15bc89327c6b50dd9db3ab7fecc0342c5d3d442"
+    },
+    {
+      "file": "assets/slides/L21/04.png",
+      "bytes": 23392,
+      "sha256": "bcb5c721f8a8b8496c0bd444c3dbddc76a8c8617651312a713f7670f14d48fdf"
+    },
+    {
+      "file": "assets/slides/L21/05.png",
+      "bytes": 22184,
+      "sha256": "74c8d3fd5e0dd54de25d8eb607b224b6e7e32c799c1eab6da042f54e5a509e04"
+    },
+    {
+      "file": "assets/slides/L21/06.png",
+      "bytes": 23239,
+      "sha256": "1c70f3c5a8ec1109d842b763267bd042da197fb740a5417e95c7e7bb79fec8a8"
+    },
+    {
+      "file": "assets/slides/L22/01.png",
+      "bytes": 23504,
+      "sha256": "43fe3e7f8117e237006181a66c6060127944dee1d3998a37112b252a30bed890"
+    },
+    {
+      "file": "assets/slides/L22/02.png",
+      "bytes": 23087,
+      "sha256": "105876589b91a6bcfc6e3ee37e3ad3b1f2ac07037ba920d207fde900570ea874"
+    },
+    {
+      "file": "assets/slides/L22/03.png",
+      "bytes": 25635,
+      "sha256": "d0568397f0e5bbc7bdab5795d44ad14023f083f363697010b721a1d4c2b7f5fd"
+    },
+    {
+      "file": "assets/slides/L22/04.png",
+      "bytes": 22710,
+      "sha256": "7a169b1a3c2268f6bda95fcbcbf066a40b2e02009f2f0f7a6ae2fef3db62301b"
+    },
+    {
+      "file": "assets/slides/L22/05.png",
+      "bytes": 24852,
+      "sha256": "dc8ee07d1db5228fc1cf1e8e0f7387b17237c37fde758b182796f519981198e1"
+    },
+    {
+      "file": "assets/slides/L22/06.png",
+      "bytes": 25662,
+      "sha256": "71b777cc98bc457776cbe40d4406d8d648fc3ad0cfeda7d58152ca9e032c170a"
+    },
+    {
+      "file": "assets/slides/L23/01.png",
+      "bytes": 18802,
+      "sha256": "e7c418cd099c04e33481501cd01c756b6d2f1f5363d85432114fdca80402dbae"
+    },
+    {
+      "file": "assets/slides/L23/02.png",
+      "bytes": 19469,
+      "sha256": "ae85fce4bd4d98707b44746d88eca4506faffa91db70821034dadb414b7c40c8"
+    },
+    {
+      "file": "assets/slides/L23/03.png",
+      "bytes": 24014,
+      "sha256": "72841cbd2ef1ec028fdf2f0f443335b96f4a10a60988ddd46f2727608deb6351"
+    },
+    {
+      "file": "assets/slides/L23/04.png",
+      "bytes": 24890,
+      "sha256": "ab594969ba7b915295bbd100baf57c62db8215f24e629c76cb13e2131dd58e20"
+    },
+    {
+      "file": "assets/slides/L23/05.png",
+      "bytes": 21160,
+      "sha256": "298f90da6d67f9ebde4db31d11b657d240287afdd4f9fd97b9ad86326e1c7187"
+    },
+    {
+      "file": "assets/slides/L23/06.png",
+      "bytes": 22587,
+      "sha256": "e9451cec2bd8d1d2d19cabcb61e306a5f455ce07e713de42f3de3e2e58abbc3b"
+    },
+    {
+      "file": "使用说明.txt",
+      "bytes": 2849,
+      "sha256": "15319f529c500ec0fbb6585840b006a00fa6b48687b3a529a7badf4d9ee1ade9"
+    },
+    {
+      "file": "开始学习.html",
+      "bytes": 222507,
+      "sha256": "832ca37fdda0d9cbca4995ae4a5b287bf0ca3201c5e00166a5a2499ddca8dd81"
+    },
+    {
+      "file": "课件/L00_全书导学_导学：从一个工作问题开始.pptx",
+      "bytes": 29017,
+      "sha256": "ed787c9af701abc98565dd6c70c54f36a56803c4af7235fe7924411e2a54778e"
+    },
+    {
+      "file": "课件/L01_第01—02章_精益是什么，要解决什么问题.pptx",
+      "bytes": 29697,
+      "sha256": "57f0150efc2619e896fe913cd943db415096f56041d2a40728a7d234ee979cfd"
+    },
+    {
+      "file": "课件/L02_第02章_识别浪费与解决问题.pptx",
+      "bytes": 29858,
+      "sha256": "1718083a92c58e9a2d1becdf9d3fc36af6e014fca4b90d85fca8c7135d076e73"
+    },
+    {
+      "file": "课件/L03_第03章_了解财务指标：个人的例子.pptx",
+      "bytes": 24898,
+      "sha256": "1aa24112d5c3024a72979cebaa36b6770f6e9b67cb846b570e11724f15ea95f1"
+    },
+    {
+      "file": "课件/L04_第03章_丰田的真北指标.pptx",
+      "bytes": 26591,
+      "sha256": "1b11a50bb186d1ba0e123129819ae2e0b6add302a312c073399a577043bba523"
+    },
+    {
+      "file": "课件/L05_第03章_多高才算高.pptx",
+      "bytes": 2966386,
+      "sha256": "ce85c29b1c0db74cf1598dce16631030683aceeb0b10cd05a4dd6e73719dc117"
+    },
+    {
+      "file": "课件/L06_第03章_质量改进.pptx",
+      "bytes": 779979,
+      "sha256": "b3e46450b9317a54777e13fc966a5e5bcb35adef015d849608eb969884087b4e"
+    },
+    {
+      "file": "课件/L07_第03章_交付时间与流程改进.pptx",
+      "bytes": 432561,
+      "sha256": "2ae54deb5aec94aff467110769a105384587d27349e635ea0da5e5e988f27632"
+    },
+    {
+      "file": "课件/L08_第03章_成本与生产率改进.pptx",
+      "bytes": 26799,
+      "sha256": "a5cb18c369b4c0da4862bb105e8308011e34fc9d9f1e9b2e9a11d75d9cc1adf2"
+    },
+    {
+      "file": "课件/L09_第03章_人才培育.pptx",
+      "bytes": 26622,
+      "sha256": "682fa976321c6ddbe4f0c6dc4486f7d87b5c88a01f0ffaa7733499ef43fcc4c1"
+    },
+    {
+      "file": "课件/L10_第03章_将真北指标与财务指标相关联.pptx",
+      "bytes": 30696,
+      "sha256": "0ab40baebf346927169f99c6e5f072e69f6a3da0df613e01880f65f9994a68ef"
+    },
+    {
+      "file": "课件/L11_第04章_从现状价值流识别浪费.pptx",
+      "bytes": 29475,
+      "sha256": "3036274d6b9331a4f30a7d6423b010fe21620134e4df377be3e484b583d9766c"
+    },
+    {
+      "file": "课件/L12_第04章_从理想状态到未来状态和计划.pptx",
+      "bytes": 29415,
+      "sha256": "8434afd4642882969013c18cbca883b89669e23088cfc7a41c5937edbb846175"
+    },
+    {
+      "file": "课件/L13_第04章_通过改善活动落实计划.pptx",
+      "bytes": 29327,
+      "sha256": "de7b277a7ef7fa8dfa107eedd4fa588f1018efac6fd355e96bdfaad410c6410d"
+    },
+    {
+      "file": "课件/L14_第05章_改善活动怎样获得人员支持.pptx",
+      "bytes": 29373,
+      "sha256": "614620821180efcc954137d687c5de698280e005406b79ff7c30128e3abb33cf"
+    },
+    {
+      "file": "课件/L15_第05章_怎样选择成员和领导者.pptx",
+      "bytes": 29542,
+      "sha256": "b25f0a5c4e8045b6837706de6f1aeaf769bed3404cb9b7d92a71f562dc18cc32"
+    },
+    {
+      "file": "课件/L16_第05章_Watlow经验与持续培养.pptx",
+      "bytes": 29474,
+      "sha256": "14f973a7ee6ce591dff6995ec833670b6ab83fa1a61b9f79e449924959da773c"
+    },
+    {
+      "file": "课件/L17_第06章_领导参与、沟通与指导联盟.pptx",
+      "bytes": 29419,
+      "sha256": "a2ffe874c4f7471e56b182e0044dc5b221108aeeaf103a955b01dadecfd29e84"
+    },
+    {
+      "file": "课件/L18_第06章_战略部署与可视化管理.pptx",
+      "bytes": 29272,
+      "sha256": "25ef6451543beb355d2ab527ba2b3b85b4fc08b0676c4238ec7ed105b4b2a877"
+    },
+    {
+      "file": "课件/L19_第06章_持续推进与转型阶段.pptx",
+      "bytes": 29427,
+      "sha256": "5cbddf347902a948c6a2db58d02b3d4abc87baba77c72673c6a850c8cc3d3b14"
+    },
+    {
+      "file": "课件/L20_第07章_客户、尊重与面对问题.pptx",
+      "bytes": 29505,
+      "sha256": "0326f7773536d282f57111f3e23ef4524a07ae63de164ffd09d8b098426b5058"
+    },
+    {
+      "file": "课件/L21_第07章_现场学习、指导与日常改善.pptx",
+      "bytes": 29439,
+      "sha256": "6c1d34121fb56a2782e20e03d8fade77e70660db5782ba4d9001d19ee75c8c16"
+    },
+    {
+      "file": "课件/L22_第07章_让行为与文化持续改变.pptx",
+      "bytes": 29741,
+      "sha256": "3a8ed70b6542f4140742059319f2c0c4134c48a6408b95758469a81c657a02ae"
+    },
+    {
+      "file": "课件/L23_全书回顾_回顾：形成我的工作改善行动草案.pptx",
+      "bytes": 29185,
+      "sha256": "f4e5bc573a39f98cc21bd97b194fa2575f0fd9c03f9a9849ccd3c1eb978f276e"
+    },
+    {
+      "file": "课件/企业精益转型的领导之道_24讲合并课件.pptx",
+      "bytes": 4744936,
+      "sha256": "c9c0f30cd8077e5eaae69ca0ed73d28f7845b127b0f34e67b4507ff975d0685d"
+    },
+    {
+      "file": "音频合集/L00_全书导学_导学：从一个工作问题开始.mp3",
+      "bytes": 5051238,
+      "sha256": "6b61bb83179b80918dbb05b910c095b78b846ceca082fa1c26c2ec979d0727fc"
+    },
+    {
+      "file": "音频合集/L01_第01—02章_精益是什么，要解决什么问题.mp3",
+      "bytes": 5299514,
+      "sha256": "c0fb29a56e60179ba01d102a1f5b71dc37ba4458f3e15c9de9a8f0dbf10f0333"
+    },
+    {
+      "file": "音频合集/L02_第02章_识别浪费与解决问题.mp3",
+      "bytes": 5555291,
+      "sha256": "d5c8891e1a167f178df3f525d05019196f2ad6da9008e8d87a47f676c8d640b0"
+    },
+    {
+      "file": "音频合集/L03_第03章_了解财务指标：个人的例子.mp3",
+      "bytes": 2640450,
+      "sha256": "8bccb99fc4b12464dc5ce210c6637c662298ac8be6cf1d79496c9fd0a999206f"
+    },
+    {
+      "file": "音频合集/L04_第03章_丰田的真北指标.mp3",
+      "bytes": 3477194,
+      "sha256": "1caad6466f223ad8d33393cae89e3b89cc73e40a106d05a8f143424f4f0e5dfe"
+    },
+    {
+      "file": "音频合集/L05_第03章_多高才算高.mp3",
+      "bytes": 4242055,
+      "sha256": "cd1b8bcdf5e693bcc07a7e9726e42a44263469c35cd7eaf82774662647e0bfbd"
+    },
+    {
+      "file": "音频合集/L06_第03章_质量改进.mp3",
+      "bytes": 3023284,
+      "sha256": "3360ff8e69f11f481a5fcf2fc9adcded4580f004b3fc4e9b4db3f04972554e2d"
+    },
+    {
+      "file": "音频合集/L07_第03章_交付时间与流程改进.mp3",
+      "bytes": 7140192,
+      "sha256": "9ac7ad79ec772efea8551d515cff027230453322d577963e458aa7064c431406"
+    },
+    {
+      "file": "音频合集/L08_第03章_成本与生产率改进.mp3",
+      "bytes": 3650649,
+      "sha256": "507af6bce3d98495930ec6414c998fe5cfc48768654086605efd51c6fadde930"
+    },
+    {
+      "file": "音频合集/L09_第03章_人才培育.mp3",
+      "bytes": 2702293,
+      "sha256": "af45d24c5cf9f16ae5f245a2980c795bde1c080d1328779d1c8dafb7ffff7cc5"
+    },
+    {
+      "file": "音频合集/L10_第03章_将真北指标与财务指标相关联.mp3",
+      "bytes": 4349488,
+      "sha256": "f3229150f03c1fea9f9d04d6a350a422e97a251a3a7ff46dc3f844f6ef1082d1"
+    },
+    {
+      "file": "音频合集/L11_第04章_从现状价值流识别浪费.mp3",
+      "bytes": 4884470,
+      "sha256": "d5f803c5af4fb25f3f8d8386c60e0cdb98d8da04cb54f2fdbcc10ae0bb89b728"
+    },
+    {
+      "file": "音频合集/L12_第04章_从理想状态到未来状态和计划.mp3",
+      "bytes": 4748221,
+      "sha256": "d3cf7a1d3561e8558eb23b35b94d6c6aceba3e4fe199771d507dce5d8a5e4cc7"
+    },
+    {
+      "file": "音频合集/L13_第04章_通过改善活动落实计划.mp3",
+      "bytes": 4842674,
+      "sha256": "88db477ce17a07a47fab65e0af9dd2283aefbaa1ba815703b82191b1e4109617"
+    },
+    {
+      "file": "音频合集/L14_第05章_改善活动怎样获得人员支持.mp3",
+      "bytes": 5309538,
+      "sha256": "8cb204eb1f9b2611f46eee6c77e00b179ddec249d18e1d3188c8c1e7e8d63ba6"
+    },
+    {
+      "file": "音频合集/L15_第05章_怎样选择成员和领导者.mp3",
+      "bytes": 5379751,
+      "sha256": "c26aee86fab3b132064e60b33951dde5a2509bfec4eb77aa7e60d8676c125747"
+    },
+    {
+      "file": "音频合集/L16_第05章_Watlow经验与持续培养.mp3",
+      "bytes": 5195019,
+      "sha256": "7bad1dc85db016fc0f3946cac95633f670f02b108eeb67a0a9835215f7c9d263"
+    },
+    {
+      "file": "音频合集/L17_第06章_领导参与、沟通与指导联盟.mp3",
+      "bytes": 5032013,
+      "sha256": "0feea331c29f09fc3dd684f4278f9f2a7cd8d08df1ccea41e03668a5f634e36d"
+    },
+    {
+      "file": "音频合集/L18_第06章_战略部署与可视化管理.mp3",
+      "bytes": 4826373,
+      "sha256": "2ee00183e4fa5abcb360418b8b1c1b17577647b79c26560dfa5a419d6a3c2604"
+    },
+    {
+      "file": "音频合集/L19_第06章_持续推进与转型阶段.mp3",
+      "bytes": 4985196,
+      "sha256": "4398f59f00ddefe77d978c033d682ec1ed0b29704fa778803e17727575327f1a"
+    },
+    {
+      "file": "音频合集/L20_第07章_客户、尊重与面对问题.mp3",
+      "bytes": 4915817,
+      "sha256": "fbc423213a5ffb708662359ab62aa67a940258a3777e9a803d283c667dbb8877"
+    },
+    {
+      "file": "音频合集/L21_第07章_现场学习、指导与日常改善.mp3",
+      "bytes": 4869427,
+      "sha256": "28169a111026106e6fb231c0e97444267d1fbe9442bb80cb74b681e56022914e"
+    },
+    {
+      "file": "音频合集/L22_第07章_让行为与文化持续改变.mp3",
+      "bytes": 4922504,
+      "sha256": "0d5f32536501a0ece4947d6584782a22aa7d2fca3af5d3a486d59211f1c8c11b"
+    },
+    {
+      "file": "音频合集/L23_全书回顾_回顾：形成我的工作改善行动草案.mp3",
+      "bytes": 4996493,
+      "sha256": "dbbf90f6061cb4728424defb82d3355ab2778fc0737d6384fe435533ed517bf7"
+    },
+    {
+      "file": "音频合集/全课程连续音频.mp3",
+      "bytes": 112012612,
+      "sha256": "c5cdec50c20dd0333f8a160135ce7aa1b9ca2ff2804bf2766811d67c60b62ba1"
+    },
+    {
+      "file": "音频合集/按课程顺序播放.m3u8",
+      "bytes": 2568,
+      "sha256": "65b19e79cdaa3e11a4fd0e7cc39b47cc98b35fbaffe473f177f265e61b6f4d0a"
+    },
+    {
+      "file": "音频合集/章节与讲次时间目录.csv",
+      "bytes": 3339,
+      "sha256": "9902c967aa403863728a7f2c7ab2ebe2141587f141ec5cd53b22c60f0954f81c"
+    },
+    {
+      "file": "音频合集/章节与讲次时间目录.txt",
+      "bytes": 1409,
+      "sha256": "488fbc202eddb32e9d87a93a5a5c21b594799f3e0b3dd4e070fe0230ee2f5895"
+    }
+  ]
+}
