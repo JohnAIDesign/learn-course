@@ -1,9 +1,6 @@
 # Office 临时锁文件
 ~$*
 
-# 超出 GitHub 单文件 100MB 硬限制，需用 Git LFS 另行处理
-音频合集/全课程连续音频.mp3
-
 # 系统杂项
 .DS_Store
 Thumbs.db
